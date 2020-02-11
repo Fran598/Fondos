@@ -1,0 +1,71 @@
+body {
+
+background: url(../img/corazon-1.svg) left top repeat-y, rgb(247, 230, 232) url(../img/corazon-2.svg) right top repeat-y;
+font-family: sans-serif;
+text-align: center;
+background-size: 8%;
+font-weight: bold;
+font-size: 1.2rem;
+
+}
+
+h1 {
+
+font-size: 170%;
+text-align: center;
+
+}
+
+div {
+
+margin-bottom: 0.5rem;
+
+}
+
+div.primero {
+
+    border: black 2px solid;
+    margin-left: 8%;
+    margin-right: 8%;
+    background: url(../img/manchas.png);
+    color: white;
+    padding: 1rem;
+    
+
+}
+
+div.segundo {
+
+    border: black 2px solid;
+    margin-left: 8%;
+    margin-right: 8%;
+    background:  url(../img/fuego.svg) left bottom no-repeat, url(../img/fuego.svg) right bottom no-repeat, url(../img/tallos.jpg);
+    color: orange;
+    padding: 1rem;    
+
+}
+
+
+div.tercero {
+
+    border: black 2px solid;
+    margin-left: 8%;
+    margin-right: 8%;
+    background: url(../img/ojo.svg) center no-repeat ,url(../img/hexagonos.jpg);
+    color: rgb(121, 9, 9);
+    padding: 1rem;    
+    background-position: center;
+
+}
+
+div.cuarto {
+
+    border: black 2px solid;
+    margin-left: 8%;
+    margin-right: 8%;
+    background: url(../img/caballo.svg) bottom repeat-x ,url(../img/estrellas.png);
+    background-size: 95px;
+    color: rgb(5, 83, 5);
+    padding-bottom: 3rem;    
+    
+}
